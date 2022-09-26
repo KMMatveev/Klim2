@@ -1,0 +1,15 @@
+C:\Users\nazig\source\repos\KMMatveev\Klim2\Klim2\bin\Debug\net6.0\Klim2.exe
+C:\Users\nazig\source\repos\KMMatveev\Klim2\Klim2\bin\Debug\net6.0\Klim2.deps.json
+C:\Users\nazig\source\repos\KMMatveev\Klim2\Klim2\bin\Debug\net6.0\Klim2.runtimeconfig.json
+C:\Users\nazig\source\repos\KMMatveev\Klim2\Klim2\bin\Debug\net6.0\Klim2.dll
+C:\Users\nazig\source\repos\KMMatveev\Klim2\Klim2\bin\Debug\net6.0\Klim2.pdb
+C:\Users\nazig\source\repos\KMMatveev\Klim2\Klim2\obj\Debug\net6.0\Klim2.csproj.AssemblyReference.cache
+C:\Users\nazig\source\repos\KMMatveev\Klim2\Klim2\obj\Debug\net6.0\Klim2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazig\source\repos\KMMatveev\Klim2\Klim2\obj\Debug\net6.0\Klim2.AssemblyInfoInputs.cache
+C:\Users\nazig\source\repos\KMMatveev\Klim2\Klim2\obj\Debug\net6.0\Klim2.AssemblyInfo.cs
+C:\Users\nazig\source\repos\KMMatveev\Klim2\Klim2\obj\Debug\net6.0\Klim2.csproj.CoreCompileInputs.cache
+C:\Users\nazig\source\repos\KMMatveev\Klim2\Klim2\obj\Debug\net6.0\Klim2.dll
+C:\Users\nazig\source\repos\KMMatveev\Klim2\Klim2\obj\Debug\net6.0\refint\Klim2.dll
+C:\Users\nazig\source\repos\KMMatveev\Klim2\Klim2\obj\Debug\net6.0\Klim2.pdb
+C:\Users\nazig\source\repos\KMMatveev\Klim2\Klim2\obj\Debug\net6.0\Klim2.genruntimeconfig.cache
+C:\Users\nazig\source\repos\KMMatveev\Klim2\Klim2\obj\Debug\net6.0\ref\Klim2.dll
